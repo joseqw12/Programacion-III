@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\figonacci1\figonacci1\bin\Debug\netcoreapp2.1\figonacci1.deps.json
+C:\Users\usuario\source\repos\figonacci1\figonacci1\bin\Debug\netcoreapp2.1\figonacci1.runtimeconfig.json
+C:\Users\usuario\source\repos\figonacci1\figonacci1\bin\Debug\netcoreapp2.1\figonacci1.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\figonacci1\figonacci1\bin\Debug\netcoreapp2.1\figonacci1.dll
+C:\Users\usuario\source\repos\figonacci1\figonacci1\bin\Debug\netcoreapp2.1\figonacci1.pdb
+C:\Users\usuario\source\repos\figonacci1\figonacci1\obj\Debug\netcoreapp2.1\figonacci1.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\figonacci1\figonacci1\obj\Debug\netcoreapp2.1\figonacci1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\figonacci1\figonacci1\obj\Debug\netcoreapp2.1\figonacci1.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\figonacci1\figonacci1\obj\Debug\netcoreapp2.1\figonacci1.AssemblyInfo.cs
+C:\Users\usuario\source\repos\figonacci1\figonacci1\obj\Debug\netcoreapp2.1\figonacci1.dll
+C:\Users\usuario\source\repos\figonacci1\figonacci1\obj\Debug\netcoreapp2.1\figonacci1.pdb
