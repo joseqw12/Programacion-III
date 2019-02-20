@@ -1,0 +1,11 @@
+C:\Users\Estudiante\Programacion-III\ling a obj\ling a obj\bin\Debug\netcoreapp2.1\ling a obj.deps.json
+C:\Users\Estudiante\Programacion-III\ling a obj\ling a obj\bin\Debug\netcoreapp2.1\ling a obj.runtimeconfig.json
+C:\Users\Estudiante\Programacion-III\ling a obj\ling a obj\bin\Debug\netcoreapp2.1\ling a obj.runtimeconfig.dev.json
+C:\Users\Estudiante\Programacion-III\ling a obj\ling a obj\bin\Debug\netcoreapp2.1\ling a obj.dll
+C:\Users\Estudiante\Programacion-III\ling a obj\ling a obj\bin\Debug\netcoreapp2.1\ling a obj.pdb
+C:\Users\Estudiante\Programacion-III\ling a obj\ling a obj\obj\Debug\netcoreapp2.1\ling a obj.csprojAssemblyReference.cache
+C:\Users\Estudiante\Programacion-III\ling a obj\ling a obj\obj\Debug\netcoreapp2.1\ling a obj.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Programacion-III\ling a obj\ling a obj\obj\Debug\netcoreapp2.1\ling a obj.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Programacion-III\ling a obj\ling a obj\obj\Debug\netcoreapp2.1\ling a obj.AssemblyInfo.cs
+C:\Users\Estudiante\Programacion-III\ling a obj\ling a obj\obj\Debug\netcoreapp2.1\ling a obj.dll
+C:\Users\Estudiante\Programacion-III\ling a obj\ling a obj\obj\Debug\netcoreapp2.1\ling a obj.pdb
