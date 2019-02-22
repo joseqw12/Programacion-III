@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Estudiante\\.nuget\\packages\\": {},
+    "C:\\Users\\usuario\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estudiante\\Programacion-III\\Clase Persona\\Clase Persona\\Clase Persona.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Programacion-III\\Clase Persona\\Clase Persona\\Clase Persona.csproj",
       "projectName": "Clase Persona",
-      "projectPath": "C:\\Users\\Estudiante\\Programacion-III\\Clase Persona\\Clase Persona\\Clase Persona.csproj",
-      "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estudiante\\Programacion-III\\Clase Persona\\Clase Persona\\obj\\",
+      "projectPath": "C:\\Users\\usuario\\Programacion-III\\Clase Persona\\Clase Persona\\Clase Persona.csproj",
+      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\usuario\\Programacion-III\\Clase Persona\\Clase Persona\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
