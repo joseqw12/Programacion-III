@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\persona linq metodos\persona linq metodos\obj\Debug\netcoreapp2.1\persona linq metodos.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\persona linq metodos\persona linq metodos\obj\Debug\netcoreapp2.1\persona linq metodos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\persona linq metodos\persona linq metodos\obj\Debug\netcoreapp2.1\persona linq metodos.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\persona linq metodos\persona linq metodos\obj\Debug\netcoreapp2.1\persona linq metodos.AssemblyInfo.cs
+C:\Users\usuario\source\repos\persona linq metodos\persona linq metodos\bin\Debug\netcoreapp2.1\persona linq metodos.deps.json
+C:\Users\usuario\source\repos\persona linq metodos\persona linq metodos\bin\Debug\netcoreapp2.1\persona linq metodos.runtimeconfig.json
+C:\Users\usuario\source\repos\persona linq metodos\persona linq metodos\bin\Debug\netcoreapp2.1\persona linq metodos.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\persona linq metodos\persona linq metodos\bin\Debug\netcoreapp2.1\persona linq metodos.dll
+C:\Users\usuario\source\repos\persona linq metodos\persona linq metodos\bin\Debug\netcoreapp2.1\persona linq metodos.pdb
+C:\Users\usuario\source\repos\persona linq metodos\persona linq metodos\obj\Debug\netcoreapp2.1\persona linq metodos.dll
+C:\Users\usuario\source\repos\persona linq metodos\persona linq metodos\obj\Debug\netcoreapp2.1\persona linq metodos.pdb
