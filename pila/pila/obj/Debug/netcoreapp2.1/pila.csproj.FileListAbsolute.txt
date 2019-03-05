@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\pila\pila\bin\Debug\netcoreapp2.1\pila.deps.json
+C:\Users\usuario\source\repos\pila\pila\bin\Debug\netcoreapp2.1\pila.runtimeconfig.json
+C:\Users\usuario\source\repos\pila\pila\bin\Debug\netcoreapp2.1\pila.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\pila\pila\bin\Debug\netcoreapp2.1\pila.dll
+C:\Users\usuario\source\repos\pila\pila\bin\Debug\netcoreapp2.1\pila.pdb
+C:\Users\usuario\source\repos\pila\pila\obj\Debug\netcoreapp2.1\pila.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\pila\pila\obj\Debug\netcoreapp2.1\pila.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\pila\pila\obj\Debug\netcoreapp2.1\pila.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\pila\pila\obj\Debug\netcoreapp2.1\pila.AssemblyInfo.cs
+C:\Users\usuario\source\repos\pila\pila\obj\Debug\netcoreapp2.1\pila.dll
+C:\Users\usuario\source\repos\pila\pila\obj\Debug\netcoreapp2.1\pila.pdb
