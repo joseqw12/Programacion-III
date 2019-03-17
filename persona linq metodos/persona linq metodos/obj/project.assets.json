@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\persona linq metodos\\persona linq metodos\\persona linq metodos.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Programacion-III\\persona linq metodos\\persona linq metodos\\persona linq metodos.csproj",
       "projectName": "persona linq metodos",
-      "projectPath": "C:\\Users\\usuario\\source\\repos\\persona linq metodos\\persona linq metodos\\persona linq metodos.csproj",
+      "projectPath": "C:\\Users\\usuario\\Programacion-III\\persona linq metodos\\persona linq metodos\\persona linq metodos.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\source\\repos\\persona linq metodos\\persona linq metodos\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Programacion-III\\persona linq metodos\\persona linq metodos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

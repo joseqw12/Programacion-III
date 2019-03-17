@@ -6,8 +6,9 @@ namespace cola
     {
         static void Main(string[] args)
         {
+            int n, Dato = 0;
             Boolean salir = false;
-            cola c = new cola();
+            cola c = new cola( );
             int opcion = 0;
             int x = 0;
             while (salir != true)
@@ -23,11 +24,11 @@ namespace cola
                     case 1:
                         Console.WriteLine("Añanada un elemento");
                         x = int.Parse(Console.ReadLine());
-                        c.push(x);
+                        c.agregar(x);
                         break;
                     case 2:
-                        x = c.quitar();
-                        Console.WriteLine("eL ELEMENTO ELIMINADO" + x);
+                      int  p = c.extraer();
+                        Console.WriteLine("eL ELEMENTO ELIMINADO" + p);
                         Console.ReadKey();
                         break;
                     case 3:

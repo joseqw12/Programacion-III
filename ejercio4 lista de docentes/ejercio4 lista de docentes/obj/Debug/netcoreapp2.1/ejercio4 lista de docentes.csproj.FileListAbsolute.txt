@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\ejercio4 lista de docentes\ejercio4 lista de docentes\bin\Debug\netcoreapp2.1\ejercio4 lista de docentes.deps.json
+C:\Users\usuario\source\repos\ejercio4 lista de docentes\ejercio4 lista de docentes\bin\Debug\netcoreapp2.1\ejercio4 lista de docentes.runtimeconfig.json
+C:\Users\usuario\source\repos\ejercio4 lista de docentes\ejercio4 lista de docentes\bin\Debug\netcoreapp2.1\ejercio4 lista de docentes.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\ejercio4 lista de docentes\ejercio4 lista de docentes\bin\Debug\netcoreapp2.1\ejercio4 lista de docentes.dll
+C:\Users\usuario\source\repos\ejercio4 lista de docentes\ejercio4 lista de docentes\bin\Debug\netcoreapp2.1\ejercio4 lista de docentes.pdb
+C:\Users\usuario\source\repos\ejercio4 lista de docentes\ejercio4 lista de docentes\obj\Debug\netcoreapp2.1\ejercio4 lista de docentes.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\ejercio4 lista de docentes\ejercio4 lista de docentes\obj\Debug\netcoreapp2.1\ejercio4 lista de docentes.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ejercio4 lista de docentes\ejercio4 lista de docentes\obj\Debug\netcoreapp2.1\ejercio4 lista de docentes.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\ejercio4 lista de docentes\ejercio4 lista de docentes\obj\Debug\netcoreapp2.1\ejercio4 lista de docentes.AssemblyInfo.cs
+C:\Users\usuario\source\repos\ejercio4 lista de docentes\ejercio4 lista de docentes\obj\Debug\netcoreapp2.1\ejercio4 lista de docentes.dll
+C:\Users\usuario\source\repos\ejercio4 lista de docentes\ejercio4 lista de docentes\obj\Debug\netcoreapp2.1\ejercio4 lista de docentes.pdb

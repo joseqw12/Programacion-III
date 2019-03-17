@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\pila\\pila\\pila.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Programacion-III\\pila\\pila\\pila.csproj",
       "projectName": "pila",
-      "projectPath": "C:\\Users\\usuario\\source\\repos\\pila\\pila\\pila.csproj",
+      "projectPath": "C:\\Users\\usuario\\Programacion-III\\pila\\pila\\pila.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\source\\repos\\pila\\pila\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Programacion-III\\pila\\pila\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

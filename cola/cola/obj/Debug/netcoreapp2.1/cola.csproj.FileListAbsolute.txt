@@ -9,3 +9,14 @@ C:\Users\usuario\source\repos\cola\cola\obj\Debug\netcoreapp2.1\cola.AssemblyInf
 C:\Users\usuario\source\repos\cola\cola\obj\Debug\netcoreapp2.1\cola.AssemblyInfo.cs
 C:\Users\usuario\source\repos\cola\cola\obj\Debug\netcoreapp2.1\cola.dll
 C:\Users\usuario\source\repos\cola\cola\obj\Debug\netcoreapp2.1\cola.pdb
+C:\Users\usuario\Programacion-III\cola\cola\bin\Debug\netcoreapp2.1\cola.deps.json
+C:\Users\usuario\Programacion-III\cola\cola\bin\Debug\netcoreapp2.1\cola.runtimeconfig.json
+C:\Users\usuario\Programacion-III\cola\cola\bin\Debug\netcoreapp2.1\cola.runtimeconfig.dev.json
+C:\Users\usuario\Programacion-III\cola\cola\bin\Debug\netcoreapp2.1\cola.dll
+C:\Users\usuario\Programacion-III\cola\cola\bin\Debug\netcoreapp2.1\cola.pdb
+C:\Users\usuario\Programacion-III\cola\cola\obj\Debug\netcoreapp2.1\cola.csprojAssemblyReference.cache
+C:\Users\usuario\Programacion-III\cola\cola\obj\Debug\netcoreapp2.1\cola.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Programacion-III\cola\cola\obj\Debug\netcoreapp2.1\cola.AssemblyInfoInputs.cache
+C:\Users\usuario\Programacion-III\cola\cola\obj\Debug\netcoreapp2.1\cola.AssemblyInfo.cs
+C:\Users\usuario\Programacion-III\cola\cola\obj\Debug\netcoreapp2.1\cola.dll
+C:\Users\usuario\Programacion-III\cola\cola\obj\Debug\netcoreapp2.1\cola.pdb

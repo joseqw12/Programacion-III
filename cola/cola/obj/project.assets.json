@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\cola\\cola\\cola.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Programacion-III\\cola\\cola\\cola.csproj",
       "projectName": "cola",
-      "projectPath": "C:\\Users\\usuario\\source\\repos\\cola\\cola\\cola.csproj",
+      "projectPath": "C:\\Users\\usuario\\Programacion-III\\cola\\cola\\cola.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\source\\repos\\cola\\cola\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Programacion-III\\cola\\cola\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
