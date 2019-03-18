@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\problema2\problema2\bin\Debug\problema2.exe.config
+C:\Users\Estudiante\source\repos\problema2\problema2\bin\Debug\problema2.exe
+C:\Users\Estudiante\source\repos\problema2\problema2\bin\Debug\problema2.pdb
+C:\Users\Estudiante\source\repos\problema2\problema2\obj\Debug\problema2.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\problema2\problema2\obj\Debug\problema2.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\problema2\problema2\obj\Debug\problema2.exe
+C:\Users\Estudiante\source\repos\problema2\problema2\obj\Debug\problema2.pdb

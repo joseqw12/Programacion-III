@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\colaexamen\colaexamen\bin\Debug\netcoreapp2.1\colaexamen.deps.json
+C:\Users\usuario\source\repos\colaexamen\colaexamen\bin\Debug\netcoreapp2.1\colaexamen.runtimeconfig.json
+C:\Users\usuario\source\repos\colaexamen\colaexamen\bin\Debug\netcoreapp2.1\colaexamen.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\colaexamen\colaexamen\bin\Debug\netcoreapp2.1\colaexamen.dll
+C:\Users\usuario\source\repos\colaexamen\colaexamen\bin\Debug\netcoreapp2.1\colaexamen.pdb
+C:\Users\usuario\source\repos\colaexamen\colaexamen\obj\Debug\netcoreapp2.1\colaexamen.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\colaexamen\colaexamen\obj\Debug\netcoreapp2.1\colaexamen.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\colaexamen\colaexamen\obj\Debug\netcoreapp2.1\colaexamen.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\colaexamen\colaexamen\obj\Debug\netcoreapp2.1\colaexamen.AssemblyInfo.cs
+C:\Users\usuario\source\repos\colaexamen\colaexamen\obj\Debug\netcoreapp2.1\colaexamen.dll
+C:\Users\usuario\source\repos\colaexamen\colaexamen\obj\Debug\netcoreapp2.1\colaexamen.pdb

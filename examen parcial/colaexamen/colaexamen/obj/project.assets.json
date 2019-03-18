@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Programacion-III\\Ejercio1\\Ejercio1\\Ejercio1.csproj",
-      "projectName": "Ejercio1",
-      "projectPath": "C:\\Users\\usuario\\Programacion-III\\Ejercio1\\Ejercio1\\Ejercio1.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\colaexamen\\colaexamen\\colaexamen.csproj",
+      "projectName": "colaexamen",
+      "projectPath": "C:\\Users\\usuario\\source\\repos\\colaexamen\\colaexamen\\colaexamen.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Programacion-III\\Ejercio1\\Ejercio1\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\source\\repos\\colaexamen\\colaexamen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
