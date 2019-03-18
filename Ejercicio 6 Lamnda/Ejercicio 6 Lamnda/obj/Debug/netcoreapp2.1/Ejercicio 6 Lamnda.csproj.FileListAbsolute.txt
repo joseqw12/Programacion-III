@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\Ejercicio 6 Lamnda\Ejercicio 6 Lamnda\bin\Debug\netcoreapp2.1\Ejercicio 6 Lamnda.deps.json
+C:\Users\usuario\source\repos\Ejercicio 6 Lamnda\Ejercicio 6 Lamnda\bin\Debug\netcoreapp2.1\Ejercicio 6 Lamnda.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicio 6 Lamnda\Ejercicio 6 Lamnda\bin\Debug\netcoreapp2.1\Ejercicio 6 Lamnda.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Ejercicio 6 Lamnda\Ejercicio 6 Lamnda\bin\Debug\netcoreapp2.1\Ejercicio 6 Lamnda.dll
+C:\Users\usuario\source\repos\Ejercicio 6 Lamnda\Ejercicio 6 Lamnda\bin\Debug\netcoreapp2.1\Ejercicio 6 Lamnda.pdb
+C:\Users\usuario\source\repos\Ejercicio 6 Lamnda\Ejercicio 6 Lamnda\obj\Debug\netcoreapp2.1\Ejercicio 6 Lamnda.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Ejercicio 6 Lamnda\Ejercicio 6 Lamnda\obj\Debug\netcoreapp2.1\Ejercicio 6 Lamnda.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicio 6 Lamnda\Ejercicio 6 Lamnda\obj\Debug\netcoreapp2.1\Ejercicio 6 Lamnda.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicio 6 Lamnda\Ejercicio 6 Lamnda\obj\Debug\netcoreapp2.1\Ejercicio 6 Lamnda.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicio 6 Lamnda\Ejercicio 6 Lamnda\obj\Debug\netcoreapp2.1\Ejercicio 6 Lamnda.dll
+C:\Users\usuario\source\repos\Ejercicio 6 Lamnda\Ejercicio 6 Lamnda\obj\Debug\netcoreapp2.1\Ejercicio 6 Lamnda.pdb
