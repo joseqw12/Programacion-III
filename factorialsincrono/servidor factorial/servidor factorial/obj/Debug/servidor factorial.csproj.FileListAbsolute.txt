@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\servidor factorial\servidor factorial\bin\Debug\servidor factorial.exe.config
+C:\Users\Estudiante\source\repos\servidor factorial\servidor factorial\bin\Debug\servidor factorial.exe
+C:\Users\Estudiante\source\repos\servidor factorial\servidor factorial\bin\Debug\servidor factorial.pdb
+C:\Users\Estudiante\source\repos\servidor factorial\servidor factorial\obj\Debug\servidor factorial.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\servidor factorial\servidor factorial\obj\Debug\servidor factorial.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\servidor factorial\servidor factorial\obj\Debug\servidor factorial.exe
+C:\Users\Estudiante\source\repos\servidor factorial\servidor factorial\obj\Debug\servidor factorial.pdb
