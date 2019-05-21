@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\cliente factorial\cliente factorial\bin\Debug\cliente factorial.exe.config
+C:\Users\Estudiante\source\repos\cliente factorial\cliente factorial\bin\Debug\cliente factorial.exe
+C:\Users\Estudiante\source\repos\cliente factorial\cliente factorial\bin\Debug\cliente factorial.pdb
+C:\Users\Estudiante\source\repos\cliente factorial\cliente factorial\obj\Debug\cliente factorial.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\cliente factorial\cliente factorial\obj\Debug\cliente factorial.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\cliente factorial\cliente factorial\obj\Debug\cliente factorial.exe
+C:\Users\Estudiante\source\repos\cliente factorial\cliente factorial\obj\Debug\cliente factorial.pdb
