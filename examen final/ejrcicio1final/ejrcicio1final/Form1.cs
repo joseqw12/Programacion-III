@@ -28,7 +28,7 @@ namespace ejrcicio1final
         private void btnmostrar_Click(object sender, EventArgs e)
         {
 
-            listBox1.Items.Add(ins);
+            listBox1.Items.Add(in);
             }
         }
     }
