@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<TextView
+		android:text="INTRODUSCA N PERIODOS"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/textView1" />
+	<android.support.design.widget.TextInputEditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textView1"
+		android:id="@+id/TXTNUMEROP" />
+	<Button
+		android:text="Crear"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/TXTNUMEROP"
+		android:id="@+id/BTNCREAR" />
+	<LinearLayout
+		android:orientation="horizontal"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/BTNCREAR"
+		android:id="@+id/LBLDINAMICA" />
+	<Button
+		android:text="Calcular"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/LBLDINAMICA"
+		android:id="@+id/btncalcular" />
+	<TextView
+		android:text="_"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/btncalcular"
+		android:id="@+id/txtresultado" />
+	<TextView
+		android:text="Inversion i"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txtresultado"
+		android:id="@+id/textView2" />
+	<android.support.design.widget.TextInputEditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textView2"
+		android:id="@+id/txtinversion" />
+	<TextView
+		android:text="Tasa"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txtinversion"
+		android:id="@+id/textView3" />
+	<android.support.design.widget.TextInputEditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textView3"
+		android:id="@+id/txttasa" />
+</RelativeLayout>

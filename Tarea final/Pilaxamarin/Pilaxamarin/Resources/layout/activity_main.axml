@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<TextView
+		android:text="Inserte un numero"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/textView1" />
+	<android.support.design.widget.TextInputEditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textView1"
+		android:id="@+id/txtnumero" />
+	<Button
+		android:text="Ingresar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txtnumero"
+		android:id="@+id/btningresar" />
+	<Button
+		android:text="eliminar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/btningresar"
+		android:id="@+id/btneliminar" />
+	<android.support.design.widget.TextInputEditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/btneliminar"
+		android:id="@+id/txteliminar" />
+	<Button
+		android:text="mostrar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txteliminar"
+		android:id="@+id/btnmostar" />
+	<LinearLayout
+		android:orientation="horizontal"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/btnmostrar"
+		android:id="@+id/lnlmostrar" />
+	<ListView
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_above="@id/lnlmostrar"
+		android:id="@+id/listmostrar" />
+
+</RelativeLayout>
